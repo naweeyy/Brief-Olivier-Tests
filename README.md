@@ -1,6 +1,6 @@
 # brief_test
 
-[![Laravel Tests](https://github.com/noemarchand/brief_test/actions/workflows/laravel-tests.yml/badge.svg)](https://github.com/noemarchand/brief_test/actions/workflows/laravel-tests.yml)
+[![Laravel Tests](https://github.com/naweeyy/Brief-Olivier-Tests/actions/workflows/laravel-tests.yml/badge.svg)](https://github.com/naweeyy/Brief-Olivier-Tests/actions/workflows/laravel-tests.yml)
 
 Projet Laravel avec tests automatisés via GitHub Actions.
 
